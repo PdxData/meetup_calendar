@@ -87,4 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# For pycharm (and other idea-based refactor tools):
 .idea/
+
+# To enable local settings to not be version controlled:
+local.py
